@@ -1,4 +1,3 @@
-````markdown
 # 👥 Workforce Attrition Intelligence Dashboard
 
 > **An interactive Human Resources analytics dashboard designed to analyse employee attrition, identify workforce risk factors, prioritise high-risk employees, and support evidence-based retention strategies through executive-level reporting.**
@@ -1449,5 +1448,3 @@ Ultimately, this project demonstrates how employee data can be transformed into 
 towards:
 
 > **“Where should we focus our retention efforts next?”**
-
-````
